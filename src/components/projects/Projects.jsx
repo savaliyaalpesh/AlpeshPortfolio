@@ -95,7 +95,7 @@ const Projects = () => {
             </h3>
           </div>
           <a
-            href="https://e-commerce-with-dummyjson-9mwi1xw5i-savaliya-alpeshs-projects.vercel.app"
+            href="https://e-commerce-with-dummyjson-mnzsp7173-savaliya-alpeshs-projects.vercel.app"
             target="_blank"
             rel="noreferrer"
           >
